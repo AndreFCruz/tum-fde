@@ -1,4 +1,4 @@
-# tum-fde
+# TUM-FDE
 Bonus projects for lecture on Foundations in Data Engineering @ Technische Universität München
 
 | Proj. | Description | Min. Target Performance |
