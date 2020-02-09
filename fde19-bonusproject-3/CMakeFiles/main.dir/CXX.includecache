@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andre/Documents/fde19-bonusproject-3/src/main.cpp
+chrono
+-
+cstdlib
+-
+iostream
+-
+string
+-
+vector
+-
+DistCalculator.hpp
+/Users/andre/Documents/fde19-bonusproject-3/src/DistCalculator.hpp
+
+include/DistCalculator.hpp
+string
+-
+vector
+-
+

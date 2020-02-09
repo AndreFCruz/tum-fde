@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/3.15.5/bin/cmake;-DCMAKE_INSTALL_PREFIX=/Users/andre/Documents/fde19-bonusproject-1/vendor/benchmark;-DCMAKE_C_COMPILER=/usr/bin/gcc;-DCMAKE_CXX_COMPILER=/usr/bin/g++;-DCMAKE_CXX_FLAGS=;-DCMAKE_BUILD_TYPE:STRING=Debug;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

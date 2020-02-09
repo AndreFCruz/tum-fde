@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bonusTpchJoin"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\vendor\;CMake Files\vendor\gtm\;CMake Files\vendor\gtm\tmp\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dist">
+				<Option output="/Users/andre/Documents/fde19-bonusproject-3/libdist.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/include"/>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/src"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 dist"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dist/fast">
+				<Option output="/Users/andre/Documents/fde19-bonusproject-3/libdist.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/include"/>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/src"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 dist/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_src">
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 gmock_src"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_all">
+				<Option output="/Users/andre/Documents/fde19-bonusproject-3/test_all" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/include"/>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/vendor/gtm/gtest/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 test_all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_all/fast">
+				<Option output="/Users/andre/Documents/fde19-bonusproject-3/test_all" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/include"/>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/vendor/gtm/gtest/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 test_all/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/Users/andre/Documents/fde19-bonusproject-3/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/Users/andre/Documents/fde19-bonusproject-3/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/andre/Documents/fde19-bonusproject-3/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_src">
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 gtest_src"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="googletest">
+				<Option working_dir="/Users/andre/Documents/fde19-bonusproject-3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 googletest"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/andre/Documents/fde19-bonusproject-3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/andre/Documents/fde19-bonusproject-3/src/DistCalculator.cpp">
+			<Option target="dist"/>
+		</Unit>
+		<Unit filename="/Users/andre/Documents/fde19-bonusproject-3/src/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/Users/andre/Documents/fde19-bonusproject-3/test/DistCalculator.cpp">
+			<Option target="test_all"/>
+		</Unit>
+		<Unit filename="/Users/andre/Documents/fde19-bonusproject-3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/andre/Documents/fde19-bonusproject-3/lib/gtest.cmake">
+			<Option virtualFolder="CMake Files\lib\"/>
+		</Unit>
+		<Unit filename="/Users/andre/Documents/fde19-bonusproject-3/vendor/gtm/tmp/gmock_src-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\vendor\gtm\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/andre/Documents/fde19-bonusproject-3/vendor/gtm/tmp/googletest-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\vendor\gtm\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/andre/Documents/fde19-bonusproject-3/vendor/gtm/tmp/gtest_src-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\vendor\gtm\tmp\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

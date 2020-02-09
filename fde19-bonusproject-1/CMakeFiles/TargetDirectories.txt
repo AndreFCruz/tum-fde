@@ -1,0 +1,10 @@
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/edit_cache.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/bench2.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/test_all.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/join_query.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/benchmark_src.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/rebuild_cache.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/gmock_src.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/main.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/gtest_src.dir
+/Users/andre/Documents/fde19-bonusproject-1/CMakeFiles/googletest.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andre/Documents/fde19-bonusproject-1/src/MemoryMappedFile.cpp
+MemoryMappedFile.hpp
+/Users/andre/Documents/fde19-bonusproject-1/src/MemoryMappedFile.hpp
+unistd.h
+-
+sys/mman.h
+-
+fcntl.h
+-
+stdexcept
+-
+
+include/MemoryMappedFile.hpp
+unistd.h
+-
+stdint.h
+-
+

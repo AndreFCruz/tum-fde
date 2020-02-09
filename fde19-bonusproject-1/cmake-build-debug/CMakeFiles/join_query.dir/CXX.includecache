@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/JoinQuery.hpp
+string
+-
+
+/Users/andre/Documents/fde19-bonusproject-1/src/JoinQuery.cpp
+JoinQuery.hpp
+/Users/andre/Documents/fde19-bonusproject-1/src/JoinQuery.hpp
+assert.h
+-
+fstream
+-
+thread
+-
+

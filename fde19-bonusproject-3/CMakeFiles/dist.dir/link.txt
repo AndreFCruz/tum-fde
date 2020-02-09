@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdist.a  CMakeFiles/dist.dir/src/DistCalculator.cpp.o
+/usr/bin/ranlib libdist.a

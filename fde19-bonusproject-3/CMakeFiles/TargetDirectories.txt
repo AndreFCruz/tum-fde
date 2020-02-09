@@ -1,0 +1,8 @@
+/Users/andre/Documents/fde19-bonusproject-3/CMakeFiles/edit_cache.dir
+/Users/andre/Documents/fde19-bonusproject-3/CMakeFiles/dist.dir
+/Users/andre/Documents/fde19-bonusproject-3/CMakeFiles/rebuild_cache.dir
+/Users/andre/Documents/fde19-bonusproject-3/CMakeFiles/gmock_src.dir
+/Users/andre/Documents/fde19-bonusproject-3/CMakeFiles/test_all.dir
+/Users/andre/Documents/fde19-bonusproject-3/CMakeFiles/main.dir
+/Users/andre/Documents/fde19-bonusproject-3/CMakeFiles/gtest_src.dir
+/Users/andre/Documents/fde19-bonusproject-3/CMakeFiles/googletest.dir
